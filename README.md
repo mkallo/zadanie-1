@@ -16,7 +16,7 @@ Vytvorte jednoduchú .NET aplikáciu, ktorá:
 * bude mať webové rozhranie (ideálne ASP.NET MVC)
 
 Pokyny k riešeniu:
-* urobte private fork tohto Git repozitára
-* zmeny pridávajte postupne, nie ako jeden veľký commit
+* vytvorte si nový Git repozitár na https://github.com/
+* zmeny pridávajte postupne, nie ako jeden veľký commit na konci
 * definíciu databázy priložte ako sadu SQL skriptov alebo Visual Studio SQL Server Database Project (database first approach)
 * odošlite odkaz na GitHub repozitár obsahujúci Vaše riešenie
