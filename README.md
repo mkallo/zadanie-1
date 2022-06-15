@@ -12,11 +12,11 @@ Vytvorte jednoduchú .NET aplikáciu, ktorá:
   * priezvisko
   * login
   * heslo
-* bude ukladať údaje do Microsoft SQL Server databázy s využitím ORM (ideálne Entity Framework)
+* bude ukladať údaje do databázy v Microsoft SQL Server (môže byť LocalDB edícia) s využitím ORM (ideálne Entity Framework)
 * bude mať webové rozhranie (ideálne ASP.NET MVC)
 
 Pokyny k riešeniu:
-* vytvorte si nový Git repozitár na https://github.com/
+* vytvorte si Git repozitár na https://github.com/ (môže byť aj privátny, ale je potom potrebné do Collaborators pridať miroslav_kallo@tempest.sk)
 * zmeny pridávajte postupne, nie ako jeden veľký commit na konci
-* definíciu databázy priložte ako sadu SQL skriptov alebo Visual Studio SQL Server Database Project (database first approach)
+* voliteľné: namiesto code-fisrt approach použite database first approach a definíciu databázovej schémy priložte do repozitára ako sadu SQL skriptov alebo ako Visual Studio SQL Server Database Project
 * odošlite odkaz na GitHub repozitár obsahujúci Vaše riešenie
