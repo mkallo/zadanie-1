@@ -20,4 +20,4 @@ Pokyny k riešeniu:
   * môže byť aj privátny, ale je potom potrebné do Collaborators pridať miroslav_kallo@tempest.sk
 * zmeny pridávajte postupne, nie ako jeden veľký commit na konci
 * voliteľné: namiesto code-fisrt approach použite database first approach a definíciu databázovej schémy priložte do repozitára ako sadu SQL skriptov alebo ako Visual Studio SQL Server Database Project
-* odošlite odkaz na GitHub repozitár obsahujúci Vaše riešenie
+* odošlite odkaz na GitHub repozitár obsahujúci Vaše riešenie na adresu miroslav_kallo@tempest.sk
