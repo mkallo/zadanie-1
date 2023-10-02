@@ -23,4 +23,4 @@ Pokyny k riešeniu:
 * zmeny commitujte postupne, nie ako jeden veľký commit na konci
 * voliteľné: namiesto code-first approach použite database first approach a definíciu databázovej schémy priložte do repozitára ako sadu SQL skriptov alebo ako Visual Studio SQL Server Database Project
 * voliteľné: vytvorte aplikáciu tak, aby bežala v Docker kontajneri
-* odošlite odkaz na GitHub repozitár obsahujúci Vaše riešenie na adresu miroslav.kallo@alanata.sk
+* odošlite odkaz na GitHub repozitár obsahujúci Vaše riešenie na adresuy miroslav.kallo@alanata.sk a daniela.karabinosova@alanata.sk
